@@ -1,0 +1,15 @@
+{
+    "name": "acer/acer",
+    "type": "lithium-library",
+    "description": "Lithium module that supports common ACER features.",
+    "authors": [
+        {
+            "name": "Ahad",
+            "email": "ahad.ali@acer.edu.au"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=5.4.0"
+    }
+}
